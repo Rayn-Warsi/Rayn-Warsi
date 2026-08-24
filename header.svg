@@ -1,0 +1,18 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#171A2B"/>
+    <stop offset="55%" stop-color="#4146A3"/>
+    <stop offset="100%" stop-color="#008FA8"/>
+  </linearGradient>
+  <radialGradient id="glow"><stop offset="0%" stop-color="#FFFFFF" stop-opacity=".20"/><stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+<circle cx="1030" cy="45" r="210" fill="url(#glow)"/>
+<circle cx="170" cy="240" r="180" fill="url(#glow)" opacity=".45"/>
+<path d="M0 205 C170 155 275 245 430 190 S700 140 840 185 S1080 240 1200 170" fill="none" stroke="#FFFFFF" stroke-opacity=".13" stroke-width="2"/>
+<path d="M0 225 C170 175 275 265 430 210 S700 160 840 205 S1080 260 1200 190" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="2"/>
+<text x="80" y="112" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Rayn Warsi</text>
+<text x="84" y="153" fill="#E8F7FA" font-family="Arial, Helvetica, sans-serif" font-size="22">Econometrics &amp; Operations Research</text>
+<text x="84" y="190" fill="#D4E8EC" font-family="Arial, Helvetica, sans-serif" font-size="16">Quantitative analysis · Econometrics · Forecasting · Optimization</text>
+</svg>
