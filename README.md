@@ -1,54 +1,38 @@
 <div align="center">
 
-# Rayn Warsi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00B4D8&height=180&section=header&text=Rayn%20Warsi&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Econometrics%20%26%20Operations%20Research&descAlignY=62&descSize=18" width="100%" />
 
-**Econometrics & Operations Research · Maastricht University**
+### Econometrics & Operations Research @ Maastricht University
 
-*Selected quantitative and technical projects*
+I work on **econometric modelling, forecasting, quantitative analysis and optimization**, with a particular interest in applying statistical and computational methods to real-world problems.
 
 </div>
 
 ---
 
-## Projects
+## Selected Work
 
-### 01 · Commodity Market Analysis & Vessel Scheduling Optimization
+<div align="center">
 
-**Python · Operations Research · Optimization · Commodity Markets**
+<a href="https://github.com/Rayn-Warsi/Commodity-Market-Analysis-And-Vessel-Scheduling-Optimization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayn-Warsi&repo=Commodity-Market-Analysis-And-Vessel-Scheduling-Optimization&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/Rayn-Warsi/Risk-Management-and-Option-Pricing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayn-Warsi&repo=Risk-Management-and-Option-Pricing&theme=transparent&hide_border=true" /></a>
 
-A quantitative project combining commodity-market analysis with mathematical optimization to develop an efficient vessel scheduling solution.
+<a href="https://github.com/Rayn-Warsi/Temperature-Trends-Across-Dutch-Cities"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayn-Warsi&repo=Temperature-Trends-Across-Dutch-Cities&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/Rayn-Warsi/Tic-Tac-Toe-Development"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayn-Warsi&repo=Tic-Tac-Toe-Development&theme=transparent&hide_border=true" /></a>
 
-[**View project →**](https://github.com/Rayn-Warsi/Commodity-Market-Analysis-And-Vessel-Scheduling-Optimization)
-
----
-
-### 02 · Risk Management & Option Pricing
-
-**R · Quantitative Finance · Financial Modelling · Risk Management**
-
-Quantitative analysis of financial risk and option-pricing problems, translating financial theory into reproducible statistical and computational analysis.
-
-[**View project →**](https://github.com/Rayn-Warsi/Risk-Management-and-Option-Pricing)
+</div>
 
 ---
 
-### 03 · Temperature Trends Across Dutch Cities
+## Skills
 
-**R · Statistics · Regression · Data Analysis**
-
-Statistical analysis of temperature trends across Dutch cities, using regression, distributional analysis, and statistical testing.
-
-[**View project →**](https://github.com/Rayn-Warsi/Temperature-Trends-Across-Dutch-Cities)
-
----
-
-### 04 · Tic-Tac-Toe Development
-
-**Python · Game Development · Object-Oriented Programming**
-
-A Python implementation of classic and Ultimate Tic-Tac-Toe, developed with modular game logic and multiple game modes.
-
-[**View project →**](https://github.com/Rayn-Warsi/Tic-Tac-Toe-Development)
+| **Quantitative** | **Programming & Data** | **Tools** |
+|:---|:---|:---|
+| Econometrics | Python | Excel |
+| Statistical Modelling | R | Power BI |
+| Forecasting | SQL | EViews |
+| Optimization | Pandas · NumPy | LaTeX |
+| Time Series Analysis | DuckDB · Polars | Git · GitHub |
 
 ---
 
