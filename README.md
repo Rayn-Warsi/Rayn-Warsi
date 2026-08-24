@@ -1,6 +1,8 @@
 <div align="center">
 
+<a href="https://nl.linkedin.com/in/rayn-warsi-615603285">
 <img src="https://raw.githubusercontent.com/Rayn-Warsi/Rayn-Warsi/main/me%20github.jpg" alt="Rayn Warsi" width="100%" />
+</a>
 
 I work on **econometric modelling, forecasting, quantitative analysis and optimization**, applying statistical and computational methods to real-world problems.
 
@@ -10,15 +12,12 @@ I work on **econometric modelling, forecasting, quantitative analysis and optimi
 
 ## Repositories
 
-<div align="center">
-
-<a href="https://github.com/Rayn-Warsi/Commodity-Market-Analysis-And-Vessel-Scheduling-Optimization"><img src="https://raw.githubusercontent.com/Rayn-Warsi/Rayn-Warsi/main/commodity-card.svg" alt="Commodity Market Analysis and Vessel Scheduling Optimization" width="48%" /></a>
-<a href="https://github.com/Rayn-Warsi/Risk-Management-and-Option-Pricing"><img src="https://raw.githubusercontent.com/Rayn-Warsi/Rayn-Warsi/main/risk-card.svg" alt="Risk Management and Option Pricing" width="48%" /></a>
-
-<a href="https://github.com/Rayn-Warsi/Temperature-Trends-Across-Dutch-Cities"><img src="https://raw.githubusercontent.com/Rayn-Warsi/Rayn-Warsi/main/temperature-card.svg" alt="Temperature Trends Across Dutch Cities" width="48%" /></a>
-<a href="https://github.com/Rayn-Warsi/Tic-Tac-Toe-Development"><img src="https://raw.githubusercontent.com/Rayn-Warsi/Rayn-Warsi/main/tictactoe-card.svg" alt="Tic-Tac-Toe Development" width="48%" /></a>
-
-</div>
+| Repository | Description | Language |
+|:---|:---|:---|
+| [**Commodity Market Analysis & Vessel Scheduling Optimization**](https://github.com/Rayn-Warsi/Commodity-Market-Analysis-And-Vessel-Scheduling-Optimization) | Commodity-market analysis combined with mathematical optimization for vessel scheduling. | Python |
+| [**Risk Management & Option Pricing**](https://github.com/Rayn-Warsi/Risk-Management-and-Option-Pricing) | Quantitative analysis of financial risk and option-pricing problems. | R |
+| [**Temperature Trends Across Dutch Cities**](https://github.com/Rayn-Warsi/Temperature-Trends-Across-Dutch-Cities) | Statistical analysis of temperature trends across Dutch cities. | R |
+| [**Tic-Tac-Toe Development**](https://github.com/Rayn-Warsi/Tic-Tac-Toe-Development) | Classic and Ultimate Tic-Tac-Toe implemented in Python. | Python |
 
 ---
 
@@ -34,6 +33,6 @@ I work on **econometric modelling, forecasting, quantitative analysis and optimi
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/)
+[LinkedIn](https://nl.linkedin.com/in/rayn-warsi-615603285)
 
 </div>
