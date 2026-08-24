@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rayn-Warsi/Rayn-Warsi/main/header.svg" alt="Rayn Warsi" width="100%" />
+<img src="https://raw.githubusercontent.com/Rayn-Warsi/Rayn-Warsi/main/me%20github.jpg" alt="Rayn Warsi" width="100%" />
 
 I work on **econometric modelling, forecasting, quantitative analysis and optimization**, applying statistical and computational methods to real-world problems.
 
