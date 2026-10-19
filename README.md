@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://nl.linkedin.com/in/rayn-warsi-615603285">
-<img src="https://raw.githubusercontent.com/Rayn-Warsi/Rayn-Warsi/main/Rayn Warsi Econometrics Banner.jpg" alt="Rayn Warsi" width="90%" />
+<img src="https://raw.githubusercontent.com/Rayn-Warsi/Rayn-Warsi/main/Rayn Warsi Econometrics Banner.png" alt="Rayn Warsi" width="90%" />
 </a>
 
 I work on **econometric modelling, forecasting, quantitative analysis and optimization**, applying statistical and computational methods to real-world problems.
