@@ -23,7 +23,7 @@ I work on **econometric modelling, forecasting, quantitative analysis and optimi
 
 ## Skills
 
-**Programming & Data:** Python · R · SQL · Pandas · NumPy · DuckDB · Polars
+**Programming & Data:** Python · R · SQL · Pandas · NumPy · DuckDB
 
 **Tools:** Excel · Power BI · EViews · LaTeX · Git · GitHub
 
